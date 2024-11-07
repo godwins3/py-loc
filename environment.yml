@@ -1,5 +1,3 @@
 name: py-loc
 channels:
   -defaults
-dependencies:
-  # define dependencies here
