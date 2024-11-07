@@ -1,6 +1,6 @@
-# Line Counter
+# py-loc
 
-Line Counter is a Python package that counts the lines of code in a given repository. It supports multiple file types and provides options to exclude certain files or directories.
+py-loc is a Python package that counts the lines of code in a given repository. It supports multiple file types and provides options to exclude certain files or directories.
 
 ## Features
 
